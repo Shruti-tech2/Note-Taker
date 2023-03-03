@@ -7,5 +7,5 @@ A spring mvc applicaton with tomcat server
 
 ## Steps to run:
 - 1. Download and import this project in IDE (used Eclipse)
-- 2. Create a database with `notetaker` name in mySql , and make changes in [this file](Note-Taker/src/main/resources/hibernate.cfg.xml) for database configuration/setting.
+- 2. Create a database with `notetaker` name in mySql , and make changes in [this file](NoteTaker/src/main/resources/hibernate.cfg.xml) for database configuration/setting.
 - 3. Run on server (used tomcat).
